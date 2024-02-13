@@ -1,2 +1,2 @@
 print("Meher sucks.");
-print("Prasiddhi Good. Meher Bad. Sarah Mid.");
+print("Prasiddhi BESHT. Meher Bad. Sarah Mid.");
